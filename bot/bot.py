@@ -868,5 +868,5 @@ def run_bot() -> None:
     application.run_polling()
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":                
     run_bot()
